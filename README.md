@@ -11,12 +11,30 @@ it suitable for use in coding environments.
 ## Screenshot 
 ![Hera](JavaScript.png)
 
-## Feedback
-Hera is a simple and unpolished font. It doesn't currently feature bold or
-italics. I designed it only for my own personal workflow.
+## Installation
+1. Clone the repository.
+```
+git clone https://github.com/Hera.git
+```
 
-However, if you do come to use it, please provide valuable feedback and request
-for features. I'd be happy to add new features if requested.
+2. Copy `Hera.otf` into `~/.fonts/`
+```
+mkdir ~/.fonts/
+cd Hera
+cp Hera.otf ~/.fonts/.
+```
+
+3. Update fonts.
+```
+fc-cache
+```
+
+## Feedback
+Hera is a very simple font. It doesn't currently feature bold or italics. It
+was designed for my own personal workflow.
+
+If you do use it, please provide valuable feedback and request for features.
+I'd be happy to add new features if requested.
 
 ## License
 SIL Open Font License, Version 1.1
