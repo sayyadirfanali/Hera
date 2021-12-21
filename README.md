@@ -9,7 +9,7 @@ Hera emphasises readability and uniformity for sigils and symbols which makes
 it suitable for use in coding environments.
 
 ## Screenshot 
-![Hera](JavaScript.svg)
+![Hera](JavaScript.png)
 
 ## Feedback
 Hera is a simple and unpolished font. It doesn't currently feature bold or
