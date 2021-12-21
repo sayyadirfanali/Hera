@@ -22,8 +22,8 @@ for features. I'd be happy to add new features if requested.
 SIL Open Font License, Version 1.1
 
 ## Credits
-Source Code Pro
-Fira Mono
-Inconsolata
-IBM Plex Mono
-Anonymous Pro
+- Source Code Pro
+- Fira Mono
+- Inconsolata
+- IBM Plex Mono
+- Anonymous Pro
