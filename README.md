@@ -10,6 +10,7 @@ it suitable for use in coding environments.
 
 ## Screenshot 
 ![Hera](JavaScript.png)
+![Hera](Perl.png)
 
 ## Installation
 1. Clone the repository.
@@ -17,14 +18,14 @@ it suitable for use in coding environments.
 git clone https://github.com/Hera.git
 ```
 
-2. Copy `Hera.otf` into `~/.fonts/`
+2. Copy `Hera.otf` into `~/.fonts/`.
 ```
 mkdir ~/.fonts/
 cd Hera
 cp Hera.otf ~/.fonts/.
 ```
 
-3. Update fonts.
+3. Update cache.
 ```
 fc-cache
 ```
@@ -40,8 +41,9 @@ I'd be happy to add new features if requested.
 SIL Open Font License, Version 1.1
 
 ## Credits
-- Source Code Pro
-- Fira Mono
-- Inconsolata
-- IBM Plex Mono
-- Anonymous Pro
+- Source Code Pro, by Paul D. Hunt
+- Fira Mono, by Erik Spiekermann, Ralph du Carrois, Anja Meiners, Botio Nikoltchev and Patryk Adamczyk.
+- Inconsolata, by Raph Levien
+- IBM Plex Mono, by Mike Abbink, Paul van der Lan and Pieter van Rosmalen
+- Office Code Pro, by Nathan Rutzky
+- Anonymous Pro, by Mark Simonson
