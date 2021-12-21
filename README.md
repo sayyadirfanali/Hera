@@ -13,29 +13,38 @@ it suitable for use in coding environments.
 ![Hera](Perl.png)
 
 ## Installation
-1. Clone the repository.
-```
-git clone https://github.com/Hera.git
+1. Clone this repository.
+
+```bash
+
+git clone https://github.com/sayyadirfanali/Hera.git
+
 ```
 
 2. Copy `Hera.otf` into `~/.fonts/`.
-```
+
+```bash
+
 mkdir ~/.fonts/
 cd Hera
 cp Hera.otf ~/.fonts/.
+
 ```
 
 3. Update cache.
-```
+
+```bash
+
 fc-cache
+
 ```
 
 ## Feedback
 Hera is a very simple font. It doesn't currently feature bold or italics. It
 was designed for my own personal workflow.
 
-If you do use it, please provide valuable feedback and request for features.
-I'd be happy to add new features if requested.
+If you do use it, feel free to provide valuable feedback and request for
+features. I'd be happy to add new features if requested.
 
 ## License
 SIL Open Font License, Version 1.1
