@@ -1,5 +1,5 @@
 # Hera
-Hera is a coding font which is a customised version of Adobe Source Code which
+Hera is a monospace font which is a customised version of Source Code Pro which
 was originally created by Paul D. Hunt.
 
 Hera consists mainly of glyphs from Adobe Source Code Pro mixed with glyphs from
