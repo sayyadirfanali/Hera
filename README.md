@@ -1,6 +1,6 @@
 # Hera
 Hera is a monospace font which is a customised version of Source Code Pro which
-was originally created by Paul D. Hunt.
+was originally created by Paul Hunt.
 
 Hera consists mainly of glyphs from Adobe Source Code Pro mixed with glyphs from
 popular monospace fonts like Fira Mono, Inconsolata, IBM Plex Mono, etc.
@@ -50,9 +50,9 @@ request for features. I'd be happy to add new features if requested.
 SIL Open Font License, Version 1.1
 
 ## Credits
-- Source Code Pro by Paul D. Hunt
+- Source Code Pro by Paul Hunt
 - Fira Mono by Erik Spiekermann, Ralph du Carrois, Anja Meiners, Botio Nikoltchev and Patryk Adamczyk.
 - Inconsolata by Raph Levien
-- IBM Plex Mono by Mike Abbink, Paul van der Lan and Pieter van Rosmalen
+- Plex Mono by Mike Abbink, Paul van der Lan and Pieter van Rosmalen
 - Office Code Pro by Nathan Rutzky
 - Anonymous Pro by Mark Simonson
