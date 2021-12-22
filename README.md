@@ -8,7 +8,7 @@ popular monospace fonts like Fira Mono, Inconsolata, IBM Plex Mono, etc.
 Hera emphasises readability and uniformity for sigils and symbols which makes
 it suitable for use in coding environments.
 
-## Screenshot 
+## Screenshots
 ![Hera](JavaScript.png)
 ![Hera](Perl.png)
 
@@ -43,8 +43,8 @@ fc-cache
 Hera is a very simple font. It doesn't currently feature bold or italics. It
 was designed for my own personal workflow.
 
-If you do use it, feel free to provide valuable feedback and request for
-features. I'd be happy to add new features if requested.
+However, if you do come to use it, feel free to provide valuable feedback and
+request for features. I'd be happy to add new features if requested.
 
 ## License
 SIL Open Font License, Version 1.1
